@@ -1,0 +1,15 @@
+face_recognition
+cv2
+time
+scipy
+playsound
+threading
+numpy
+
+### install these Standerd liberaries by pip
+
+
+
+
+
+**************************************Made and Developed By Chirag Choudhary**************************************************************
